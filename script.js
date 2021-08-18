@@ -3,4 +3,4 @@ function printName(){
     return myName;
 }
 
-console.log(printName);
+console.log(printName());
